@@ -1,11 +1,11 @@
 
 <div align="center">
 
-# Olá, eu sou Mateus Ruan! 👋
+# 👋 Olá, eu sou Mateus Ruan!
 
 ### 💻 Desenvolvedor em formação | Tecnologia & Programação
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Python+%7C+Java+%7C+JavaScript+%7C+React;Transformando+ideias+em+c%C3%B3digo." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+Python;React+%7C+JavaScript;Transformando+ideias+em+c%C3%B3digo." />
 
 </div>
 
@@ -15,11 +15,12 @@
 
 - 🎓 Ensino Médio completo.
 - 💻 Estudando programação e desenvolvimento de software.
-- 🐍 Explorando Python e automação.
-- ☕ Desenvolvendo conhecimentos em Java.
+- ☕ Desenvolvendo conhecimentos em Java e Spring Boot.
+- 🐍 Explorando Python e automação de processos.
 - ⚛️ Aprendendo React e JavaScript.
-- 🔧 Utilizando Git e GitHub para versionamento.
-- 🎯 Focado em evoluir como desenvolvedor e construir projetos reais.
+- 🔧 Utilizando Git e GitHub para versionamento de código.
+- 🎯 Focado em aprimorar minhas habilidades e desenvolver projetos reais.
+- 🌎 Interessado em oportunidades na área de tecnologia e desenvolvimento de software.
 
 ---
 
@@ -31,9 +32,13 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 
-### ⚙️ Frameworks e ferramentas
+### ⚙️ Frameworks e bibliotecas
 
-<img src="https://skillicons.dev/icons?i=react,vite,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=spring,react,vite" />
+
+### 🔧 Ferramentas e ambiente de desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 
 </div>
 
@@ -43,7 +48,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
@@ -51,11 +56,21 @@
 
 ---
 
-## 🔥 Atividade no GitHub
+## 🔥 Sequência de contribuições
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Gráfico de contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -82,23 +97,5 @@
 ### 💡 "Transformando conhecimento em soluções através da tecnologia."
 
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=36BCF7&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+perfil"/>
-
-</div>
-
-## 🛠️ Tecnologias e ferramentas
-
-<div align="center">
-
-### 💻 Linguagens de programação
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript" />
-
-### ⚙️ Frameworks e bibliotecas
-
-<img src="https://skillicons.dev/icons?i=spring,react,vite" />
-
-### 🔧 Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
