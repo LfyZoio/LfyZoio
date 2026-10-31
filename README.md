@@ -17,7 +17,7 @@
 
 - 🎓 Formado no Ensino Médio.
 - 💻 Estudando programação e desenvolvimento de software.
-- 🐍 Aprendendo Python e lógica de programação.
+- 🐍 Aprendendo Python,Java e lógica de programação.
 - ⚛️ Explorando React e desenvolvimento Front-end.
 - 🔧 Conhecimentos em Git e GitHub.
 - 🎯 Buscando evoluir como desenvolvedor e construir projetos reais.
