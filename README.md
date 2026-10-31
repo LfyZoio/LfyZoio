@@ -84,3 +84,21 @@
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=36BCF7&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+perfil"/>
 
 </div>
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+### 💻 Linguagens de programação
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+
+### ⚙️ Frameworks e bibliotecas
+
+<img src="https://skillicons.dev/icons?i=spring,react,vite" />
+
+### 🔧 Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
