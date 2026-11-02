@@ -1,8 +1,6 @@
 
 <div align="center">
 
-# Hi, I'm Mateus Ruan! 👋
-
 ### 💻 Developer in Progress | Software Development & Technology
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Always+Learning+and+Building;Java+%7C+Spring+Boot+%7C+Python;React+%7C+JavaScript;Turning+Ideas+Into+Code." />
